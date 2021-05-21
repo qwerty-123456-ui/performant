@@ -1,13 +1,13 @@
 import React from "react";
 // import Alert from "react-bootstrap/Alert";
 import { useState } from "react";
-import Button from "react-bootstrap/Button";
-import Carousel from "react-bootstrap/Carousel";
+// import Button from "react-bootstrap/Button";
+// import Carousel from "react-bootstrap/Carousel";
 // import Img1 from "../images/3.jpg";
 import video1 from "../images/1.mp4";
 import "./Home.css";
 import Card1 from "./Card1.js";
-import Badge from 'react-bootstrap/Badge'
+// import Badge from 'react-bootstrap/Badge'
 
 
 
