@@ -6,7 +6,7 @@ import { useState } from "react";
 // import Img1 from "../images/3.jpg";
 import video1 from "../images/1.mp4";
 import "./Home.css";
-import Card1 from "./Card1.js";
+// import Card1 from "./Card1.js";
 // import Badge from 'react-bootstrap/Badge'
 
 
@@ -44,7 +44,7 @@ function Home() {
       <video src={video1} width="100%" height="700" loop autoplay="true" />
       <br></br>
       <div className="spacehorizon"></div>
-      <Card1></Card1>
+      {/* <Card1></Card1> */}
     </>
   );
 }

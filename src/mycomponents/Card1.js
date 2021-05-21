@@ -1,23 +1,23 @@
 import React from "react";
-import Card from "react-bootstrap/Card";
+// import Card from "react-bootstrap/Card";
 // import Button from "react-bootstrap/Button";
 import Img1 from "../images/4.jpg";
 import Img2 from "../images/2.jpg";
 import Img3 from "../images/1.jpg";
-import CardDeck from "react-bootstrap/CardDeck";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
+// import CardDeck from "react-bootstrap/CardDeck";
+// import Container from "react-bootstrap/Container";
+// import Row from "react-bootstrap/Row";
+// import Col from "react-bootstrap/Col";
 
 export default function Card1() {
   return (
     <div>
-      <Card style={{ width: "50%", marginLeft: "25%", marginTop: "100px" }}>
+      {/* <Card style={{ width: "50%", marginLeft: "25%", marginTop: "100px" }}>
         <Container fluid>
-          <Row>
-            <Col>
+          <Row> */}
+            {/* <Col>
               <Card.Img variant="top" src={Img1} width="100%" />
-            </Col>
+            </Col> */}
             {/* <Col>
             <Card.Body style={{margintop: "25%"}}>
                 <Card.Title>Card Title</Card.Title>
@@ -28,7 +28,7 @@ export default function Card1() {
                 <Card.Link href="#">Card Link</Card.Link>
               </Card.Body>
             </Col> */}
-          </Row>
+          {/* </Row>
           <Row>
             <Card.Body style={{ margintop: "25%" }}>
               <Card.Title>Digital Marketing</Card.Title>
@@ -42,10 +42,10 @@ export default function Card1() {
       </Card>
       <Card style={{ width: "50%", marginLeft: "25%", marginTop: "100px" }}>
         <Container fluid>
-          <Row>
-            <Col>
+          <Row> */}
+            {/* <Col>
               <Card.Img variant="top" src={Img1} width="100%" />
-            </Col>
+            </Col> */}
             {/* <Col>
             <Card.Body style={{margintop: "25%"}}>
                 <Card.Title>Card Title</Card.Title>
@@ -56,7 +56,7 @@ export default function Card1() {
                 <Card.Link href="#">Card Link</Card.Link>
               </Card.Body>
             </Col> */}
-          </Row>
+          {/* </Row>
           <Row>
             <Card.Body style={{ margintop: "25%" }}>
               <Card.Title>Card Title</Card.Title>
@@ -74,7 +74,7 @@ export default function Card1() {
           <Row>
             <Col>
               <Card.Img variant="top" src={Img1} width="100%" />
-            </Col>
+            </Col> */}
             {/* <Col>
             <Card.Body style={{margintop: "25%"}}>
                 <Card.Title>Card Title</Card.Title>
@@ -85,7 +85,7 @@ export default function Card1() {
                 <Card.Link href="#">Card Link</Card.Link>
               </Card.Body>
             </Col> */}
-          </Row>
+          {/* </Row>
           <Row>
             <Card.Body style={{ margintop: "25%" }}>
               <Card.Title>Card Title</Card.Title>
@@ -97,7 +97,7 @@ export default function Card1() {
             </Card.Body>
           </Row>
         </Container>
-      </Card>
+      </Card> */}
       {/*  */}
       {/* </CardDeck> */}
     </div>
